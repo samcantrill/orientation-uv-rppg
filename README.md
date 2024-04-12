@@ -18,4 +18,3 @@ If you find Orientation-UV rPPG useful for your work please cite:
 
 This website uses source code from <a 
             href="https://github.com/nerfies/nerfies.github.io">here</a>.
-
